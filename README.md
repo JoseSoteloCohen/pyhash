@@ -32,6 +32,8 @@ pip install hashlib
   
   ![Click Download ZIP](https://media.publit.io/file/screen-2.jpg "Click the Download ZIP button")
 
+5. **Open the ZIP and place it inside a folder in your PC**
+
 ## How to run the script
 
 * Paste all the strings that you want to hash inside the **ANIs.txt** file under the ANI text. **DO NOT erase the first string: ANI.**
