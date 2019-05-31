@@ -3,13 +3,13 @@ Python program to hash strings with **SHA256**.
 
 ## Requirements
 
-* Python 3+
-* Pandas
-* Hashlib
+* [Python 3+](https://www.python.org)
+* [Pandas](https://pandas.pydata.org/)
+* [Hashlib](https://docs.python.org/3/library/hashlib.html)
 
 ## Installation
 
-1. **Install Python 3+:** Download and Install the lastest version of Python from [here](https://www.python.org/downloads/")
+1. **Install Python 3+:** Download and Install the lastest version of Python from [here](https://www.python.org/downloads/)
 2. **Install Pandas:** Abre el cmd de Windows y escribe: 
 
 ```
