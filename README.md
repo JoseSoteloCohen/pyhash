@@ -22,6 +22,16 @@ pip install pandas
 pip install hashlib
 ```
 
+4. **Download the files**:
+ 
+ * Click the green button
+  
+  ![Click download](https://media.publit.io/file/screen-1.jpg "Click the green button")
+  
+ * Click in Download ZIP
+  
+  ![Click Download ZIP](https://media.publit.io/file/screen-2.jpg "Click the Download ZIP button")
+
 ## How to run the script
 
 * Paste all the strings that you want to hash inside the **ANIs.txt** file under the ANI text. **DO NOT erase the first string: ANI.**
